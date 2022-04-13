@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @tejareddy8888
-- 👀 I’m interested in Scalable Blockchain DEFI projects , Natural Language Processing projects
-- 🌱 I’m currently learning 2nd Layer Scaling methodologies
-- 💞️ I’m looking to collaborate on DEFI projects , Quantitative Finance projects
-- 📫 saitejapottanigari@gmail.com
-
-<!---
-tejareddy8888/tejareddy8888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  Hi, I’m Teja
+-  I’m interested in Blockchain DEFI projects , Natural Language Processing projects
+-  I’m currently working on interoperablility in decentralization with cross-chain communication or multi-chain 
+-  I’m looking to collaborate on DEFI projects or Secure Decentralized Internet development
+-  Interested to colloborate then mail me at: saitejapottanigari@gmail.com
