@@ -1,5 +1,5 @@
 -  Hi, I’m Teja
 -  I’m interested in Blockchain DEFI projects , Natural Language Processing projects
--  I’m currently working on interoperablility in decentralization with cross-chain communication or multi-chain 
+-  I’m currently working on interoperablility in decentralization with cross-chain communication.
 -  I’m looking to collaborate on DEFI projects or Secure Decentralized Internet development
 -  Interested to colloborate then mail me at: saitejapottanigari@gmail.com
